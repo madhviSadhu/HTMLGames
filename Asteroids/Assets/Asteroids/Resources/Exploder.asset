@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9db31e181934642aa9cf484ce9a504, type: 3}
+  m_Name: Exploder
+  m_EditorClassIdentifier: 
+  m_BigExplosionPrefab: {fileID: 8711309092896447244, guid: 64ed70b6c6999164fbe5794c74d9c08d,
+    type: 3}
+  m_SmallExplosionPrefab: {fileID: 2066298575890576302, guid: 82ac4038fe95b5c47b8f89c529321bbd,
+    type: 3}
+  m_ShipExplosionPrefab: {fileID: 1077315868812310452, guid: b3e29420d054ecb46be88a240748e6ae,
+    type: 3}
